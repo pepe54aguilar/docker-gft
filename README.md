@@ -10,7 +10,7 @@ This repository provides a practical learning environment by offering Docker Com
 
 The repository is organized into folders for each technology stack, each containing a Docker Compose file and a README:
 
-- [NiFi](NiFi/)
+- [NiFi](NIFI/)
 - [Kafka](Kafka/)
 - [PostgreSQL](PostgreSQL/)
 - [MongoDB](MongoDB/)
