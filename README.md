@@ -14,6 +14,8 @@ The repository is organized into folders for each technology stack, each contain
 - [Kafka](Kafka/)
 - [PostgreSQL](PostgreSQL/)
 - [MongoDB](MongoDB/)
+- [Jupyter](Jupyter/)
+- [Debezium](Debezium/) *Not finished*
 - `coming soon...`
 
 ## Usage
@@ -30,6 +32,7 @@ Contributions to this repository are welcome! To contribute, please follow these
    - `[ADD]`: For adding new Docker Compose configurations, README files, or other content. Example: [ADD] kafka + mongo.
    - `[UPDATE]`: For updating existing Docker Compose configurations, README files, or other content. Example: [UPDATE] kafka documentation.
    - `[DELETE]`: For removing or deleting Docker Compose configurations, README files, or other content. Example: [DELETE] kafka_ksql.
+   - `[CUSTOM]`: If your contribution does not fit with the other ones customize it but in capital letters and with []. Example: [YOUR_CHANGE] your title.
 
 3. Make your changes and commit them to your branch. Please provide clear and concise commit messages explaining the purpose of your changes.
 
