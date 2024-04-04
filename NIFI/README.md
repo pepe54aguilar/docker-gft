@@ -26,3 +26,5 @@ To deploy NiFi using Docker, follow these steps:
 6. Once you have finished using NiFi turn down the continers.
     ```bash
     docker-compose down
+
+Note: The volume ./template:/opt/nifi/nifi-current/conf/templates/ will charge in NiFi all the templates that you have in the folder ./template
