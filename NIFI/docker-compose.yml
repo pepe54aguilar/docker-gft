@@ -11,6 +11,8 @@ services:
     environment:
       - SINGLE_USER_CREDENTIALS_USERNAME=admin
       - SINGLE_USER_CREDENTIALS_PASSWORD=ctsBtRBKHRAx69EqUghvvgEvjnaLjFEB
+    volumes:
+      - ./template:/opt/nifi/nifi-current/conf/templates/
     
   nifi-registry:
     image: apache/nifi-registry:latest
