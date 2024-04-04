@@ -30,3 +30,5 @@ This docker-compose contains the following services:
     ```bash
     docker-compose down
     ```
+
+Note: The volume ./notebooks:/home/jovyan/work will charge in jupyter all the notebooks that you have in the folder ./notebooks
