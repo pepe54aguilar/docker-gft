@@ -16,6 +16,7 @@ The repository is organized into folders for each technology stack, each contain
 - [MongoDB](MongoDB/)
 - [Jupyter](Jupyter/)
 - [Debezium](Debezium/) *Not finished*
+- [PySpark](Spark/)
 - `coming soon...`
 
 ## Usage
